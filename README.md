@@ -34,6 +34,6 @@
 
 ### [1주차 (4/6)](https://github.com/elegant-functional-2023/five-lines-of-code/discussions/2)
 
-- 진도: 2장까지 읽어오고 정리 & 의견 나누기
+- 진도: 3장까지 읽어오고 정리 & 의견 나누기
 
 ## 출석표
