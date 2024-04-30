@@ -56,6 +56,10 @@
 
 - 진도: 7장~10장까지 읽어오고 정리 & 의견 나누기
 
+### [5주차 (5/4)](https://github.com/elegant-functional-2023/five-lines-of-code/discussions/8)
+
+- 진도: 10장~14장까지 읽어오고 정리 & 의견 나누기
+
 <br/>
 
 ## 출석표
@@ -64,13 +68,13 @@
 
 |  이름  |                   github id                        |  0주차  |  1주차  |  2주차  |  3주차  |  4주차  |  5주차  |  6주차  |  7주차  |  8주차  |  9주차  |  10주차  |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 강민경 | [@ddongule](https://github.com/ddongule)            |   결석   |   ✅    |   결석   |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)    |   결석   |   결석   |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |   ✅    |   ✅    |   결석   |   지각   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |   지각   |   지각   |   ✅    |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 안현철 | [@iborymagic](https://github.com/iborymagic)        |   결석   |   ✅    |   결석   |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   결석   |   ✅    |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   ✅    |   결석   |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   ✅    |   결석   |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 조승희 | [@sa02045](https://github.com/sa02045)              |   지각   |   지각   |   지각   |   지각   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   ✅    |   ✅    |   결석   |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| 강민경 | [@ddongule](https://github.com/ddongule)            |   결석   |   ✅    |   결석   |   결석   |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |
+| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)    |   결석   |   결석   |   ✅    |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |   ✅    |   ✅    |   결석   |   지각   |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |   지각   |   지각   |   ✅    |   결석   |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 안현철 | [@iborymagic](https://github.com/iborymagic)        |   결석   |   ✅    |   결석   |   결석   |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |
+| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   결석   |   ✅    |   ✅    |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   ✅    |   결석   |   ✅    |   ✅    |   결석   |   -   |   -   |   -   |   -   |   -   |   -   |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   ✅    |   결석   |   ✅    |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 조승희 | [@sa02045](https://github.com/sa02045)              |   지각   |   지각   |   지각   |   지각   |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
+| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   ✅    |   ✅    |   결석   |   ✅    |   ✅    |   -   |   -   |   -   |   -   |   -   |   -   |
